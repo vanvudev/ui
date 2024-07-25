@@ -28,5 +28,5 @@ timm==0.4.12
 tomesd
 torch
 torchdiffeq
-torchsde==0.2.4
+torchsde==
 transformers==4.25.1
