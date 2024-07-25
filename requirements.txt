@@ -7,7 +7,7 @@ blendmodes
 clean-fid
 einops
 gfpgan
-gradio==3.32.0
+gradio==3.31.0
 inflection
 jsonmerge
 kornia
@@ -17,14 +17,14 @@ omegaconf
 
 piexif
 psutil
-pytorch_lightning
+pytorch_lightning==1.7.7
 realesrgan
 requests
 resize-right
 
 safetensors
 scikit-image>=0.19
-timm
+timm==0.4.12
 tomesd
 torch
 torchdiffeq
